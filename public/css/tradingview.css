@@ -1,0 +1,65 @@
+html.theme-light {
+    --tv-color-platform-background: #ffffff;
+    --tv-color-pane-background: #ffffff;
+    --tv-color-toolbar-button-background-hover: #fffae3;
+    --tv-color-toolbar-button-background-expanded: #fffae3;
+    --tv-color-toolbar-button-background-active: #fcd000;
+    --tv-color-toolbar-button-background-active-hover: #f8c100;
+    --tv-color-toolbar-button-text: #3f3f3f;
+    --tv-color-toolbar-button-text-hover: #272727;
+    --tv-color-toolbar-button-text-active: #272727;
+    --tv-color-toolbar-button-text-active-hover: #090909;
+    --tv-color-item-active-text: #090909;
+    --tv-color-toolbar-toggle-button-background-active: #fffae3;
+    --tv-color-toolbar-toggle-button-background-active-hover: #fff5c7;
+    --tv-color-toolbar-divider-background: #dcdcdc;
+    --tv-color-toolbar-save-layout-loader: #c2c4cb;
+
+    --tv-color-popup-background: #ffffff;
+    --tv-color-popup-element-text: #3f3f3f;
+    --tv-color-popup-element-text-hover: #272727;
+    --tv-color-popup-element-background-hover: #fff5c7;
+    --tv-color-popup-element-divider-background: #dcdcdc;
+    --tv-color-popup-element-secondary-text: #272727;
+    --tv-color-popup-element-hint-text: #272727;
+    --tv-color-popup-element-text-active: #090909;
+    --tv-color-popup-element-background-active: #fff5c7;
+    --tv-color-popup-element-toolbox-text: #3f3f3f;
+    --tv-color-popup-element-toolbox-text-hover: #272727;
+    --tv-color-popup-element-toolbox-text-active-hover: #090909;
+    --tv-color-popup-element-toolbox-background-hover: #fffae3;
+    --tv-color-popup-element-toolbox-background-active-hover: #fff5c7;
+}
+
+html.theme-dark {
+    --tv-color-platform-background: #1e1e1e;
+    --tv-color-pane-background: #1e1e1e;
+    --tv-color-toolbar-button-background-hover: #34291d;
+    --tv-color-toolbar-button-background-expanded: #34291d;
+    --tv-color-toolbar-button-background-active: #ff9110;
+    --tv-color-toolbar-button-background-active-hover: #fcd000;
+    --tv-color-toolbar-button-text: #d2d2d2;
+    --tv-color-toolbar-button-text-hover: #f0f0f0;
+    --tv-color-toolbar-button-text-active: #ffffff;
+    --tv-color-toolbar-button-text-active-hover: #ffffff;
+    --tv-color-item-active-text: #ffffff;
+    --tv-color-toolbar-toggle-button-background-active: #34291d;
+    --tv-color-toolbar-toggle-button-background-active-hover: #8d6f4a;
+    --tv-color-toolbar-divider-background: #2f2f2f;
+    --tv-color-toolbar-save-layout-loader: #373737;
+
+    --tv-color-popup-background: #262626;
+    --tv-color-popup-element-text: #d2d2d2;
+    --tv-color-popup-element-text-hover: #f0f0f0;
+    --tv-color-popup-element-background-hover: #8d6f4a;
+    --tv-color-popup-element-divider-background: #2f2f2f;
+    --tv-color-popup-element-secondary-text: #a5a5a5;
+    --tv-color-popup-element-hint-text: #a5a5a5;
+    --tv-color-popup-element-text-active: #ffffff;
+    --tv-color-popup-element-background-active: #6a410f;
+    --tv-color-popup-element-toolbox-text: #d2d2d2;
+    --tv-color-popup-element-toolbox-text-hover: #a5a5a5;
+    --tv-color-popup-element-toolbox-text-active-hover: #a5a5a5;
+    --tv-color-popup-element-toolbox-background-hover: #34291d;
+    --tv-color-popup-element-toolbox-background-active-hover: #6a410f;
+}
